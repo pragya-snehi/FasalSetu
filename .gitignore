@@ -1,0 +1,44 @@
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub/
+build/
+
+# Android
+android/.gradle
+android/app/debug
+android/app/profile
+android/app/release
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Environment Files
+.env
+.env.local
+
+# AI Models
+*.pt
+*.pth
+*.h5
+
+# Logs
+*.log
+
+# Dataset Temp
+dataset/raw/
+dataset/temp/
